@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "RastgeleSayiUretici/1.0.0": {
+        "runtime": {
+          "RastgeleSayiUretici.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RastgeleSayiUretici/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

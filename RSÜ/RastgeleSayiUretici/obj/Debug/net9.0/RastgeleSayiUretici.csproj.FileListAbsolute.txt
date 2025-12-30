@@ -1,0 +1,14 @@
+C:\Users\WIN10\Desktop\RSÜ\RastgeleSayiUretici\bin\Debug\net9.0\RastgeleSayiUretici.exe
+C:\Users\WIN10\Desktop\RSÜ\RastgeleSayiUretici\bin\Debug\net9.0\RastgeleSayiUretici.deps.json
+C:\Users\WIN10\Desktop\RSÜ\RastgeleSayiUretici\bin\Debug\net9.0\RastgeleSayiUretici.runtimeconfig.json
+C:\Users\WIN10\Desktop\RSÜ\RastgeleSayiUretici\bin\Debug\net9.0\RastgeleSayiUretici.dll
+C:\Users\WIN10\Desktop\RSÜ\RastgeleSayiUretici\bin\Debug\net9.0\RastgeleSayiUretici.pdb
+C:\Users\WIN10\Desktop\RSÜ\RastgeleSayiUretici\obj\Debug\net9.0\RastgeleSayiUretici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10\Desktop\RSÜ\RastgeleSayiUretici\obj\Debug\net9.0\RastgeleSayiUretici.AssemblyInfoInputs.cache
+C:\Users\WIN10\Desktop\RSÜ\RastgeleSayiUretici\obj\Debug\net9.0\RastgeleSayiUretici.AssemblyInfo.cs
+C:\Users\WIN10\Desktop\RSÜ\RastgeleSayiUretici\obj\Debug\net9.0\RastgeleSayiUretici.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\RSÜ\RastgeleSayiUretici\obj\Debug\net9.0\RastgeleSayiUretici.dll
+C:\Users\WIN10\Desktop\RSÜ\RastgeleSayiUretici\obj\Debug\net9.0\refint\RastgeleSayiUretici.dll
+C:\Users\WIN10\Desktop\RSÜ\RastgeleSayiUretici\obj\Debug\net9.0\RastgeleSayiUretici.pdb
+C:\Users\WIN10\Desktop\RSÜ\RastgeleSayiUretici\obj\Debug\net9.0\RastgeleSayiUretici.genruntimeconfig.cache
+C:\Users\WIN10\Desktop\RSÜ\RastgeleSayiUretici\obj\Debug\net9.0\ref\RastgeleSayiUretici.dll
